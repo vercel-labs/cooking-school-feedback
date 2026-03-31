@@ -1,0 +1,92 @@
+[
+  {
+    "id": "fb-001",
+    "courseSlug": "knife-skills",
+    "lessonSlug": "the-claw-grip",
+    "rating": 5,
+    "comment": "Finally understand why my onion cuts were uneven. The claw grip changed everything.",
+    "author": "Priya Sharma",
+    "createdAt": "2026-03-01T10:30:00Z"
+  },
+  {
+    "id": "fb-002",
+    "courseSlug": "knife-skills",
+    "lessonSlug": "dicing-onions",
+    "rating": 4,
+    "comment": "Great technique breakdown but I wish there was a slow-motion video. Hard to follow the horizontal cut at full speed.",
+    "author": "Marcus Chen",
+    "createdAt": "2026-03-01T14:15:00Z"
+  },
+  {
+    "id": "fb-003",
+    "courseSlug": "bread-baking",
+    "lessonSlug": "hydration-basics",
+    "rating": 5,
+    "comment": "I had no idea that flour-to-water ratio mattered this much. My loaves have been bricks for months. Not anymore.",
+    "author": "Aisha Johnson",
+    "createdAt": "2026-03-02T09:00:00Z"
+  },
+  {
+    "id": "fb-004",
+    "courseSlug": "knife-skills",
+    "lessonSlug": "the-claw-grip",
+    "rating": 3,
+    "comment": "Felt a bit rushed. Would have liked more time on finger positioning before jumping to speed drills.",
+    "author": "Tom Kowalski",
+    "createdAt": "2026-03-02T11:45:00Z"
+  },
+  {
+    "id": "fb-005",
+    "courseSlug": "bread-baking",
+    "lessonSlug": "shaping-boules",
+    "rating": 5,
+    "comment": "The surface tension explanation finally clicked. My dough used to spread flat every time.",
+    "author": "Sofia Reyes",
+    "createdAt": "2026-03-03T08:20:00Z"
+  },
+  {
+    "id": "fb-006",
+    "courseSlug": "bread-baking",
+    "lessonSlug": "sourdough-starter",
+    "rating": 4,
+    "comment": "Good lesson, but the difference between a stiff starter and a liquid starter took me a second read.",
+    "author": "James Okafor",
+    "createdAt": "2026-03-03T16:00:00Z"
+  },
+  {
+    "id": "fb-007",
+    "courseSlug": "knife-skills",
+    "lessonSlug": "julienne-cuts",
+    "rating": 5,
+    "comment": "Matchstick carrots used to take me forever. The guide-hand technique cut my prep time in half.",
+    "author": "Lin Wei",
+    "createdAt": "2026-03-04T10:10:00Z"
+  },
+  {
+    "id": "fb-008",
+    "courseSlug": "bread-baking",
+    "lessonSlug": "hydration-basics",
+    "rating": 2,
+    "comment": "I already knew this from other baking courses. Wish there was a fast-track for people who have the fundamentals.",
+    "author": "Derek Miles",
+    "createdAt": "2026-03-04T13:30:00Z"
+  },
+  {
+    "id": "fb-009",
+    "courseSlug": "knife-skills",
+    "lessonSlug": "dicing-onions",
+    "rating": 5,
+    "comment": "Best lesson in the course. No more crying over mangled onion pieces.",
+    "author": "Nora Eriksson",
+    "createdAt": "2026-03-05T09:45:00Z"
+  },
+  {
+    "id": "fb-010",
+    "courseSlug": "pasta-from-scratch",
+    "lessonSlug": "egg-dough",
+    "rating": 4,
+    "comment": "The well method is so satisfying. Dough came together on the first try, which never happens to me.",
+    "author": "Priya Sharma",
+    "createdAt": "2026-03-05T15:20:00Z"
+  }
+]
